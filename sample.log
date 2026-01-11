@@ -1,0 +1,7 @@
+INFO App Started
+INFO User logged in
+ERROR Database connection failed
+INFO Retrying
+ERROR Timeout occured
+INFO Request completed
+
